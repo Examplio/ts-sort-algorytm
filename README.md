@@ -1,4 +1,4 @@
-# Optimized Sort Algorytm
+# Optimized Sort Algorithm
 
 This project contains a highly optimized implementation of merge sorting written in **TypeScript**.
 
